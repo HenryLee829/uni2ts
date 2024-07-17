@@ -4,4 +4,4 @@ offset: 14400
 windows: 2785
 distance: 1
 prediction_length: 96
-mode: null
+mode: test

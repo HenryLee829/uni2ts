@@ -1,0 +1,4 @@
+- run_name=example_run
+- model=moirai_1.0_R_small
+- data=etth1
+- val_data=etth1

@@ -1,0 +1,4 @@
+- run_name=swat_run
+- model=moirai_1.0_R_small
+- data=swat
+- val_data=swat

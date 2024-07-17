@@ -11,7 +11,7 @@
 #  distributed under the License is distributed on an "AS IS" BASIS,
 #  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 #  See the License for the specific language governing permissions and
-#  limitations under the License.
+#  limitations under the License.y
 
 import hydra
 import torch
@@ -19,7 +19,7 @@ from gluonts.time_feature import get_seasonality
 from hydra.core.hydra_config import HydraConfig
 from hydra.utils import call, instantiate
 from omegaconf import DictConfig
-from torch.utils.tensorboard import SummaryWriter
+# from torch.utils.tensorboard import SummaryWriter
 
 from uni2ts.common import hydra_util  # noqa: hydra resolvers
 from uni2ts.eval_util.evaluation import evaluate_model
